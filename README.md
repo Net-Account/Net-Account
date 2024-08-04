@@ -1,3 +1,3 @@
-## چنل تلگرامی ما: @NetAccount
+## چنل تلگرامی ما: NetAccount@
 ---
 [TELEGRAM](https://t.me/NetAccount)
