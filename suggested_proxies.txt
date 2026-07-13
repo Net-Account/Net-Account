@@ -20,3 +20,4 @@ https://t.me/proxy?server=api-web.asiaadomainsshatelhamrahaval.co.uk.&port=443&s
 https://t.me/proxy?server=157.245.44.84&port=8080&secret=mgxsfhvdf353sadx4542mkjo4790tfcs2463xsgcs6755vhfxdxeeeeeeeeeeeee
 https://t.me/proxy?server=semiconductor.ap-author.ghoostbusters.ir&port=443&secret=ee1603010200010001fc030386e24c3add61702d617574686f722e73656d69636f6e647563746f722e73616d73756e672e636f6d
 https://t.me/proxy?server=46.249.99.22&port=443&secret=ee5f4bd962b42c492c4b50790ce861fc0573332e616d617a6f6e6177732e636f6d
+tg://proxy?server=messi2.nisti.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
