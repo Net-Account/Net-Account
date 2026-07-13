@@ -22,3 +22,8 @@ https://t.me/proxy?server=semiconductor.ap-author.ghoostbusters.ir&port=443&secr
 https://t.me/proxy?server=46.249.99.22&port=443&secret=ee5f4bd962b42c492c4b50790ce861fc0573332e616d617a6f6e6177732e636f6d
 tg://proxy?server=messi2.nisti.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
 tg://proxy?server=157.180.91.82&port=8443&secret=dd104462821249bd7ac519130220c25d09
+https://t.me/proxy?server=87.248.129.53&port=15&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+https://t.me/proxy?server=fresh.t-proxy.info.&port=25565&secret=ee104462821249bd7ac519130220c25d0963646e2e79656b74616e65742e636f6d
+https://t.me/proxy?server=win.golgoli1.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d
+https://t.me/proxy?server=imtproxy-ir.quest.37-68-174.ir.&port=8443&secret=ee1603048187495dfac59a030220c25d8e626973636f7474692e79656b74616e65742e636f6d
+https://t.me/proxy?server=spo-rt.172-68qavie.ir&port=1010&secret=3XnnAQIAAQAH8AMDhuJMOt0&bot=@mtpro_xyz_bot&channel=@mtpro_xyz
