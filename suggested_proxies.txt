@@ -30,3 +30,4 @@ https://t.me/proxy?server=spo-rt.172-68qavie.ir&port=1010&secret=3XnnAQIAAQAH8AM
 https://t.me/proxy?server=s11.4g3.xyz&port=443&secret=eef0fd24d7029de52a83b099ac6dbee9917777772e676f6f676c652e636f6d
 https://t.me/proxy?server=109.236.50.155&port=443&secret=ee7777772e676f6f676c652e636f6db0
 https://t.me/proxy?server=s12.4g3.xyz&port=443&secret=eef0fd24d7029de52a83b099ac6dbee9917777772e676f6f676c652e636f6d
+https://t.me/proxy?server=s13.4g3.xyz&port=443&secret=eef0fd24d7029de52a83b099ac6dbee9917777772e676f6f676c652e636f6d
