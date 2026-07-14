@@ -32,3 +32,4 @@ https://t.me/proxy?server=109.236.50.155&port=443&secret=ee7777772e676f6f676c652
 https://t.me/proxy?server=s12.4g3.xyz&port=443&secret=eef0fd24d7029de52a83b099ac6dbee9917777772e676f6f676c652e636f6d
 https://t.me/proxy?server=s13.4g3.xyz&port=443&secret=eef0fd24d7029de52a83b099ac6dbee9917777772e676f6f676c652e636f6d
 https://t.me/proxy?server=s14.4g3.xyz&port=443&secret=eef0fd24d7029de52a83b099ac6dbee9917777772e676f6f676c652e636f6d
+tg://proxy?port=443&secret=ee45b0f596fc16d0c39fd3a23b8a18efa77777772e636c6f7564666c6172652e636f6d&server=185.204.169.94
