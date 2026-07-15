@@ -40,3 +40,4 @@ https://t.me/proxy?server=31.41.33.114&port=443&secret=eee854b22396ba5a74f23b6f1
 tg://proxy?server=31.57.27.246&port=443&secret=ee380d15fb318d91fa2d3e82f19df583b9636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=d4a7c1f8-3e9b-425d-a1c6-9f8e2b7a4d5c.casa&port=80&secret=eefc56fb73c972a2309c4787bc1364c2207777772e636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=plus.geo-cdn.ru&port=443&secret=ee3e85aac6e7bcc0ba3847479bff8ef2a4
+https://t.me/proxy?server=blond.basicscotch.co.uk&port=25565&secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d
