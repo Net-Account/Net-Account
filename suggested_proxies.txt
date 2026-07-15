@@ -34,3 +34,4 @@ https://t.me/proxy?server=s13.4g3.xyz&port=443&secret=eef0fd24d7029de52a83b099ac
 https://t.me/proxy?server=s14.4g3.xyz&port=443&secret=eef0fd24d7029de52a83b099ac6dbee9917777772e676f6f676c652e636f6d
 tg://proxy?port=443&secret=ee45b0f596fc16d0c39fd3a23b8a18efa77777772e636c6f7564666c6172652e636f6d&server=185.204.169.94
 https://t.me/proxy?server=nasaji.estakhr.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
+https://t.me/proxy?server=jounob-iran-dar-ghalb-mast.simbol.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
