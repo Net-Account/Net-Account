@@ -45,3 +45,4 @@ https://t.me/proxy?server=80.91.86.179&port=4477&secret=4a57065b49b983b1d91c3e4f
 https://t.me/proxy?server=176.65.151.56&port=155&secret=7isjToIRNGfOBkFfOsu0z9dzdjEuZmFzdC5jb20=
 https://t.me/proxy?server=new.vafadari.co.uk&port=2096&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=tg-0d6be1.magproxy.com&port=443&secret=dd40aa72a0f79e4f3b2be25dd56e07de72
+https://t.me/proxy?server=yamyam.lookiran2.ir&port=1919&secret=10400103324995b07c030386e886e7f1
