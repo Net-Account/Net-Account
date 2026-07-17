@@ -1,13 +1,3 @@
-https://t.me/proxy?server=45.59.125.212&port=443&secret=dbcce8d8f02c0da7b6fad2a55c61ca10
-https://t.me/proxy?server=dl3.soft98.net&port=2053&secret=ee277b571aff100fbafc2e3efebac80b2b736f667439382e6972
-https://t.me/proxy?server=93.115.22.75&port=443&secret=ff16b3b0820cafdb4adea4272f2dfc26
-https://t.me/proxy?server=185.23.19.7&port=443&secret=61df1273266dd9a8f1d0b5785bd83d90
-https://t.me/proxy?server=t.sibvpn.com&port=443&secret=7je0vaprgTJNB6pKyex6tDFkbC5zb2Z0OTguaXI
-https://t.me/proxy?server=host.dnsrender.info&port=443&secret=ee3e85aac6e7bcc0ba3847479bff8ef2a4
-https://t.me/socks?server=ir3.proxyanonymous.xyz&port=1080&pass=%40ProxyAnonymous
-https://t.me/proxy?server=194.154.25.238&port=443&secret=886ace76f7a9a1e3219537fe5dfd04d5
-https://t.me/proxy?server=api-web.asiaadomainsshatelhamrahaval.co.uk.&port=443&secret=eeddff05e65a69a6a7fd1a28a28a121fff7765622e62616c652e6169
-https://t.me/proxy?server=157.245.44.84&port=8080&secret=mgxsfhvdf353sadx4542mkjo4790tfcs2463xsgcs6755vhfxdxeeeeeeeeeeeee
 https://t.me/proxy?server=semiconductor.ap-author.ghoostbusters.ir&port=443&secret=ee1603010200010001fc030386e24c3add61702d617574686f722e73656d69636f6e647563746f722e73616d73756e672e636f6d
 https://t.me/proxy?server=46.249.99.22&port=443&secret=ee5f4bd962b42c492c4b50790ce861fc0573332e616d617a6f6e6177732e636f6d
 tg://proxy?server=messi2.nisti.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
