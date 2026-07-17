@@ -45,3 +45,4 @@ https://t.me/proxy?server=188.130.154.75&port=443&secret=eeb9158519066d9f86485f5
 https://t.me/proxy?server=80.91.86.179&port=222&secret=f9c30870ac3767293f7a5a7f89814d37
 https://t.me/proxy?server=hadi-choopan.persian.wolf.ir.aojsnqzcdsc.info&port=88&secret=ee0000f00f0f775555fffffff5006e2e69626973636f7474692e79656b74616e65742e636f6d
 https://t.me/proxy?server=176.65.135.69&port=443&secret=dd79e7010200010007f0030386e24c3add
+https://t.me/proxy?server=best-store.bangmyshop.ir&port=443&secret=ee1603010200010001fc030386e24c3add69626973636f7474692e79656b74616e65742e636f6d
