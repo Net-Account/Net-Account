@@ -37,3 +37,4 @@ https://t.me/proxy?server=bia.nisti.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdC
 https://t.me/proxy?server=soheil.goooalir.co.uk&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=97e91m2.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=5.75.221.118&port=8443&secret=dd104462821249bd7ac519130220c25d09
+tg://proxy?server=aree.ir.meli-n13.info&port=8443&secret=104462821249bd7ac519130220c25d09
