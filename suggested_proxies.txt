@@ -1,7 +1,3 @@
-https://t.me/proxy?server=kala.golgoli1.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add7777772e7961686f6f2e636f6d
-https://t.me/proxy?server=57.129.98.32&port=8443&secret=H9oQ7sMuEUxPrnzIuBZlRDRuY2RuLnlla3RhbmV0LmNvbWZhcmFrYXYuY29tdmFuLm5hanZhLmNvbQAAAAAAAAAAAAAAAAAAAAAAAAAA
-https://t.me/proxy?server=cinema-hulk.avangement.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d
-https://t.me/proxy?server=88.99.175.27&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=5.75.221.209&port=8443&secret=dd104462821249bd7ac519130220c25d09
 https://t.me/proxy?server=188.130.154.75&port=443&secret=eeb9158519066d9f86485f5f61b8d94d89706c61792e676f6f676c652e636f6d
 https://t.me/proxy?server=80.91.86.179&port=222&secret=f9c30870ac3767293f7a5a7f89814d37
