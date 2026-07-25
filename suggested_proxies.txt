@@ -1,4 +1,3 @@
-https://t.me/proxy?server=goat.nisti.co.uk&port=8880&secret=eeNEgYdJvXrFGRMCIMJdCQ
 https://t.me/proxy?server=s15.4g3.xyz&port=443&secret=eef0fd24d7029de52a83b099ac6dbee9917777772e676f6f676c652e636f6d
 https://t.me/proxy?server=s16.4g3.xyz&port=443&secret=eef0fd24d7029de52a83b099ac6dbee9917777772e676f6f676c652e636f6d
 https://t.me/proxy?server=185.31.200.52&port=443&secret=41949ac0e142be185a813213f8d142b5
