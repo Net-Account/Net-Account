@@ -1,3 +1,7 @@
 tg://proxy?server=poro.edunow.ir&port=443&secret=5ebb34969f640a78dd79acdb54c00bd0
 https://t.me/proxy?server=194.120.230.26&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0
 https://t.me/proxy?server=153.75.89.61&port=443&secret=dd64006a1b597a2232d9e0e5ab736fb9b1
+https://t.me/proxy?server=s1۵.4g3.xyz&port=443&secret=eef0fd24d7029de52a83b099ac6dbee9917777772e676f6f676c652e636f6d
+https://t.me/proxy?server=s1۶.4g3.xyz&port=443&secret=eef0fd24d7029de52a83b099ac6dbee9917777772e676f6f676c652e636f6d
+https://t.me/proxy?server=s1۷.4g3.xyz&port=443&secret=eef0fd24d7029de52a83b099ac6dbee9917777772e676f6f676c652e636f6d
+https://t.me/proxy?server=s20.4g3.xyz&port=443&secret=eef0fd24d7029de52a83b099ac6dbee9917777772e676f6f676c652e636f6d
