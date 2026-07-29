@@ -8,3 +8,5 @@ https://t.me/proxy?server=s20.4g3.xyz&port=443&secret=eef0fd24d7029de52a83b099ac
 https://t.me/proxy?server=s21.4g3.xyz&port=443&secret=eef0fd24d7029de52a83b099ac6dbee9917777772e676f6f676c652e636f6d
 https://t.me/proxy?server=s22.4g3.xyz&port=443&secret=eef0fd24d7029de52a83b099ac6dbee9917777772e676f6f676c652e636f6d
 https://t.me/proxy?server=s23.4g3.xyz&port=443&secret=eef0fd24d7029de52a83b099ac6dbee9917777772e676f6f676c652e636f6d
+https://t.me/proxy?server=iran1.4g3.xyz&port=443&secret=eef0fd24d7029de52a83b099ac6dbee9917777772e676f6f676c652e636f6d
+https://t.me/proxy?server=iran2..4g3.xyz&port=443&secret=eef0fd24d7029de52a83b099ac6dbee9917777772e676f6f676c652e636f6d
